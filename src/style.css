@@ -1,0 +1,10 @@
+.female {
+    background: red;
+}
+.male {
+    background: blue;
+}
+
+* {
+    color: white;
+}
