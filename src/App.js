@@ -7,12 +7,16 @@ function App () {
     const [stire, setStire] = useState([]);
     const [map, setMap] = useState();
 
-    useEffect(() => {
+    const generateuser = () => {
         axios(api)
             .then(res => {
                 console.log(res.data.results[0])
                 setStire(res.data.results)
             });
+    };
+
+    useEffect(() => {
+        generateuser();
     }, []);
 
     useEffect(() => {
@@ -28,6 +32,7 @@ function App () {
     return (
         <>
             { map }
+            <input type="button" onClick={generateuser} value="Generate User" />
         </>
     )
 }
