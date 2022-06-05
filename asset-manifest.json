@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/generate-user-react/static/css/main.3c4cd37d.css",
+    "main.js": "/generate-user-react/static/js/main.4c265984.js",
+    "index.html": "/generate-user-react/index.html",
+    "main.3c4cd37d.css.map": "/generate-user-react/static/css/main.3c4cd37d.css.map",
+    "main.4c265984.js.map": "/generate-user-react/static/js/main.4c265984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c4cd37d.css",
+    "static/js/main.4c265984.js"
+  ]
+}

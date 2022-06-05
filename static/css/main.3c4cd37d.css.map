@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3c4cd37d.css","mappings":"AAAA,QACI,cACJ,CACA,MACI,eACJ,CAEA,EACI,UACJ","sources":["style.css"],"sourcesContent":[".female {\r\n    background: red;\r\n}\r\n.male {\r\n    background: blue;\r\n}\r\n\r\n* {\r\n    color: white;\r\n}"],"names":[],"sourceRoot":""}
